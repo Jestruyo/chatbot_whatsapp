@@ -1,0 +1,617 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '573015010397@s.whatsapp.net',
+    fromMe: false,
+    id: 'F82D5B83692E8216CA684005C8EF2717',
+    participant: undefined
+  },
+  messageTimestamp: 1675805181,
+  pushName: 'Etilvia📖más tarde',
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '573015010397'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573015010397@s.whatsapp.net',
+    fromMe: false,
+    id: 'B78C234A5C13FDD2FA6FA82CEE738405',
+    participant: undefined
+  },
+  messageTimestamp: 1675805295,
+  pushName: 'Etilvia📖más tarde',
+  message: Message {
+    conversation: 'documentación',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'documentación',
+  from: '573015010397'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573015010397@s.whatsapp.net',
+    fromMe: false,
+    id: 'FCFEC7932E10B22B8B438AA54D4BC162',
+    participant: undefined
+  },
+  messageTimestamp: 1675805364,
+  pushName: 'Etilvia📖más tarde',
+  message: Message {
+    conversation: 'Siguiente',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Siguiente',
+  from: '573015010397'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573246615500@s.whatsapp.net',
+    fromMe: false,
+    id: '7705E0F651DEEF0EC237620DE8C695BB',
+    participant: undefined
+  },
+  messageTimestamp: 1675805850,
+  pushName: 'Yurleidys Navarro',
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '573246615500'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573246615500@s.whatsapp.net',
+    fromMe: false,
+    id: '899EFD1282A50AC7B75FAB73389EB9CE',
+    participant: undefined
+  },
+  messageTimestamp: 1675805909,
+  pushName: 'Yurleidys Navarro',
+  message: Message {
+    conversation: 'Hola Jesús cómo estás',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola Jesús cómo estás',
+  from: '573246615500'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573246615500@s.whatsapp.net',
+    fromMe: false,
+    id: '3DFC2D1EFFCCE3D06B84F843A7CCA692',
+    participant: undefined
+  },
+  messageTimestamp: 1675805931,
+  pushName: 'Yurleidys Navarro',
+  message: Message {
+    conversation: 'Doc',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Doc',
+  from: '573246615500'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573246615500@s.whatsapp.net',
+    fromMe: false,
+    id: '129A120F56C029435275B93B20C14D55',
+    participant: undefined
+  },
+  messageTimestamp: 1675805945,
+  pushName: 'Yurleidys Navarro',
+  message: Message {
+    conversation: 'doc',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'doc',
+  from: '573246615500'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573246615500@s.whatsapp.net',
+    fromMe: false,
+    id: '409EECAEAAAD16DF3F2BBDB52989CABC',
+    participant: undefined
+  },
+  messageTimestamp: 1675807754,
+  pushName: 'Yurleidys Navarro',
+  message: Message {
+    conversation: 'Gracias',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Gracias',
+  from: '573246615500'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '17378646617@s.whatsapp.net',
+    fromMe: false,
+    id: 'FCE91ED5CE10C805E45E1F327D0D2C66',
+    participant: undefined
+  },
+  messageTimestamp: 1675810951,
+  pushName: 'Franklin',
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Hola amigo',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola amigo',
+  from: '17378646617'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '17378646617@s.whatsapp.net',
+    fromMe: false,
+    id: 'A5B1A352DC482B79A4C18E322A91B32F',
+    participant: undefined
+  },
+  messageTimestamp: 1675810978,
+  pushName: 'Franklin',
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Como has Estado?',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Como has Estado?',
+  from: '17378646617'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '17378646617@s.whatsapp.net',
+    fromMe: false,
+    id: 'B517C4D99C357DDD8198DD517A015E10',
+    participant: undefined
+  },
+  messageTimestamp: 1675810987,
+  pushName: 'Franklin',
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Soy franklin',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Soy franklin',
+  from: '17378646617'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '17378646617@s.whatsapp.net',
+    fromMe: false,
+    id: 'EC45753E748F3C2E3B8F3BE73681FCC5',
+    participant: undefined
+  },
+  messageTimestamp: 1675813022,
+  pushName: 'Franklin',
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Hola amigo como estas? \n' +
+        'Queria saludar \n' +
+        'Espero te encuentres bien, saludos a tu Esposa y tu hija',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola amigo como estas? \n' +
+    'Queria saludar \n' +
+    'Espero te encuentres bien, saludos a tu Esposa y tu hija',
+  from: '17378646617'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '17378646617@s.whatsapp.net',
+    fromMe: false,
+    id: 'A5FB10210D312671F1747862E25EF1A8',
+    participant: undefined
+  },
+  messageTimestamp: 1675813112,
+  pushName: 'Franklin',
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Tranquilo no te preocu',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Tranquilo no te preocu',
+  from: '17378646617'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '17378646617@s.whatsapp.net',
+    fromMe: false,
+    id: '327398ABB011AD8692F48A2C38F9C6F4',
+    participant: undefined
+  },
+  messageTimestamp: 1675813168,
+  pushName: 'Franklin',
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Ella me dio el tuyo yo los perdi',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Ella me dio el tuyo yo los perdi',
+  from: '17378646617'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '17378646617@s.whatsapp.net',
+    fromMe: false,
+    id: 'A45B137FC16FD6A4490B446DAC4FE593',
+    participant: undefined
+  },
+  messageTimestamp: 1675813177,
+  pushName: 'Franklin',
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Estoy bien gracias a Jehova',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Estoy bien gracias a Jehova',
+  from: '17378646617'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '17378646617@s.whatsapp.net',
+    fromMe: false,
+    id: 'D81912A6EAE8712F70295E9534F278F8',
+    participant: undefined
+  },
+  messageTimestamp: 1675813190,
+  pushName: 'Franklin',
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Logre llegar a USA',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Logre llegar a USA',
+  from: '17378646617'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '17378646617@s.whatsapp.net',
+    fromMe: false,
+    id: '3A397C3621B4A2C1F06A3A337BC2D2B6',
+    participant: undefined
+  },
+  messageTimestamp: 1675813201,
+  pushName: 'Franklin',
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Jajajajaja',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Jajajajaja',
+  from: '17378646617'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '17378646617@s.whatsapp.net',
+    fromMe: false,
+    id: '936A7516A74F11215D9697FFEF72324E',
+    participant: undefined
+  },
+  messageTimestamp: 1675813243,
+  pushName: 'Franklin',
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Si ella me conto que siempre habla contigo',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Si ella me conto que siempre habla contigo',
+  from: '17378646617'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '17378646617@s.whatsapp.net',
+    fromMe: false,
+    id: 'AE71B4AEBAD1D58C198A4B3D4DCE1937',
+    participant: undefined
+  },
+  messageTimestamp: 1675813283,
+  pushName: 'Franklin',
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Ya te lo mando',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Ya te lo mando',
+  from: '17378646617'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '17378646617@s.whatsapp.net',
+    fromMe: false,
+    id: '16BA7A9FA53F35184EADB7E8840EC2C5',
+    participant: undefined
+  },
+  messageTimestamp: 1675813296,
+  pushName: 'Franklin',
+  message: Message {
+    contactMessage: ContactMessage {
+      displayName: 'Mama',
+      vcard: 'BEGIN:VCARD\n' +
+        'VERSION:3.0\n' +
+        'N:;Mama;;;\n' +
+        'FN:Mama\n' +
+        'item1.TEL;waid=573052364026:+57 305 2364026\n' +
+        'item1.X-ABLabel:Móvil\n' +
+        'END:VCARD',
+      contextInfo: [ContextInfo]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '',
+  from: '17378646617'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '17378646617@s.whatsapp.net',
+    fromMe: false,
+    id: '72B4A5959543E726291C137104C104AC',
+    participant: undefined
+  },
+  messageTimestamp: 1675813356,
+  pushName: 'Franklin',
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Ya estoy trabajando bastante por aqui y Te cuento que ya consegui unos testigos de Jehova  aqui también',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Ya estoy trabajando bastante por aqui y Te cuento que ya consegui unos testigos de Jehova  aqui también',
+  from: '17378646617'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '17378646617@s.whatsapp.net',
+    fromMe: false,
+    id: '404E829657A6EF00CFDDEF7C2554498E',
+    participant: undefined
+  },
+  messageTimestamp: 1675813406,
+  pushName: 'Franklin',
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Y ya comence los estudios con ellos pero no se si puedo contigo que estas por alla',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Y ya comence los estudios con ellos pero no se si puedo contigo que estas por alla',
+  from: '17378646617'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '17378646617@s.whatsapp.net',
+    fromMe: false,
+    id: '6824C8C1372D4FF69E03081FD00A822E',
+    participant: undefined
+  },
+  messageTimestamp: 1675813419,
+  pushName: 'Franklin',
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Si amigo',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Si amigo',
+  from: '17378646617'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '17378646617@s.whatsapp.net',
+    fromMe: false,
+    id: 'EE696C168B9211670488C220E6F9C3A2',
+    participant: undefined
+  },
+  messageTimestamp: 1675813426,
+  pushName: 'Franklin',
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Otra vez',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Otra vez',
+  from: '17378646617'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '17378646617@s.whatsapp.net',
+    fromMe: false,
+    id: '505AF1CC7B0607CCF350E17F008F3E26',
+    participant: undefined
+  },
+  messageTimestamp: 1675813461,
+  pushName: 'Franklin',
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Lo que se me hace difícil  es ir a la reunión por el trabajo',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Lo que se me hace difícil  es ir a la reunión por el trabajo',
+  from: '17378646617'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '17378646617@s.whatsapp.net',
+    fromMe: false,
+    id: '856860D94C19030C9983AD7B44B3D36D',
+    participant: undefined
+  },
+  messageTimestamp: 1675813513,
+  pushName: 'Franklin',
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Pero me invitaron a la asamblea que hubo esta semana y pude ir',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Pero me invitaron a la asamblea que hubo esta semana y pude ir',
+  from: '17378646617'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '17378646617@s.whatsapp.net',
+    fromMe: false,
+    id: 'A0260D477FD7EFC748F3F038415AD47F',
+    participant: undefined
+  },
+  messageTimestamp: 1675813555,
+  pushName: 'Franklin',
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Si hay bastante latinos',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Si hay bastante latinos',
+  from: '17378646617'
+}
